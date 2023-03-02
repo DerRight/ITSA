@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ITSA02.cpp">
+    <ClCompile Include="ITSA_preticed.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
